@@ -135,5 +135,8 @@
       }
     }
   },
-  "defaultProject": "angular6-springboot-client"
+  "defaultProject": "angular6-springboot-client",
+  "cli": {
+    "analytics": false
+  }
 }
